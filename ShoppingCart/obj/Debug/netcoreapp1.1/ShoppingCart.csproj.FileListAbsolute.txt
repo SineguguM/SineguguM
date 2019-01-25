@@ -1,0 +1,9 @@
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.deps.json
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.json
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.dev.json
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.dll
+c:\users\sinegugum\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.pdb
